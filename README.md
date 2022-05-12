@@ -11,3 +11,5 @@ In this lab the major themes were to learn about stepper motor construction, lea
 We started off by making sure we understood how the internal windings of the stepper motor were connected. We did this by measure the resistance between different colored wires using a digital multimeter. 
 
 
+
+
