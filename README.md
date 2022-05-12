@@ -10,6 +10,13 @@ In this lab the major themes were to learn about stepper motor construction, lea
 
 We started off by making sure we understood how the internal windings of the stepper motor were connected. We did this by measure the resistance between different colored wires using a digital multimeter. 
 
-
+| Wires | Resistance (ohms) |
+| ------|---------------|
+| Red to Green | 0 |
+| Red to Blue | 20 ohms |
+| Red to Black | 0 |
+| Black to Green| 21 ohms|
+| Black to Blue | 0 |
+| Green to Blue | 0 |
 
 
