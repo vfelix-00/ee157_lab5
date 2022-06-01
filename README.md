@@ -27,3 +27,14 @@ Given this table, we concluded that the red to blue and green to black wires wer
 
 ![EE+157_Lab_5](https://user-images.githubusercontent.com/71578472/171357926-6cb5f8bf-7f1a-448a-860f-3dd3af5ff324.jpeg)
 Figure: Stepper motor schematic
+
+## Captured back-EMF waveforms
+
+We then captured the back-EMF of the stepper motor. We did this by connecting 2 voltage scopes to the red to blue and green to black wire pairs and then capturing the spin-down voltage of the motor as depicted below. 
+
+<img width="700" alt="back-EMF of stepper motor" src="https://user-images.githubusercontent.com/71578472/171360233-0c26bdcb-3e02-4340-a3b7-374ad54d5b71.png">
+Figure: Back-EMF waveform of the stepper motor via a scope capture 
+
+From this capture and peak value of the back-emf waveform, we estimate the back-emf voltage to be around 14.61 V.
+
+
