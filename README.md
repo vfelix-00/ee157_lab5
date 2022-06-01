@@ -1,6 +1,7 @@
 # Lab 5: Working with Stepper Motors
 
 Vanessa Felix 
+
 Lab Partner: Vivian Auduong
 
 ## Overview
