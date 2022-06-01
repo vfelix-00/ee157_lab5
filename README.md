@@ -37,4 +37,14 @@ Figure: Back-EMF waveform of the stepper motor via a scope capture
 
 From this capture and peak value of the back-emf waveform, we estimate the back-emf voltage to be around 14.61 V.
 
+## Generating our circuit schematic
+
+We implemented one of the simplest ways to drive stepper motors. In this simple stepper motor application, we did not try to control the current or voltage. Stepper motors are not designed for efficiency, but rather for holding torque.
+
+The Toshiba TB6674PG Stepping Motor Driver IC we used did not have a bunch of logic circuitry. Its major functionality was to provide H-bridges implemented in 130nm BiCD MOS along with some “protection” diodes and over-current / over-temperature circuitry. 
+
+We reviewed the datasheet for the TB6674PG, once we were familiar with all the pins and how they should be connected / configured, we drew out the schematic we planned to implement.  
+
+
+
 
