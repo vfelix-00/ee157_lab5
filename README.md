@@ -26,3 +26,4 @@ We started off by making sure we understood how the internal windings of the ste
 Given this table, we concluded that the red to blue and green to black wires were connected, while the red to green, the red to black, black to blue, and green to blue were not connected. With this information in hand, we drew a diagram of what the winding pattern seemed to be.
 
 ![EE+157_Lab_5](https://user-images.githubusercontent.com/71578472/171357926-6cb5f8bf-7f1a-448a-860f-3dd3af5ff324.jpeg)
+Figure: Stepper motor schematic
