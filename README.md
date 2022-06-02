@@ -48,5 +48,9 @@ We reviewed the datasheet for the TB6674PG, once we were familiar with all the p
 ![EE+157_Lab_5-3](https://user-images.githubusercontent.com/71578472/171698450-1601d336-2fe5-47d6-b77a-fb29772d18bc.jpeg)
 Figure: Circuit schematic of Toshiba TB6674PG chip, power supply, passive components, and stepper motor
 
+Before plugging it into the power supply, we confirmed the electrical connectivity with a handheld DMM to save debugging time as well as burnt ICs.
+
+
+
 
 
