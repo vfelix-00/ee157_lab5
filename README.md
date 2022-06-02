@@ -50,7 +50,12 @@ Figure: Circuit schematic of Toshiba TB6674PG chip, power supply, passive compon
 
 Before plugging it into the power supply, we confirmed the electrical connectivity with a handheld DMM to save debugging time as well as burnt ICs.
 
+## Generating the logic signals
 
+The TB6674PG will need two digital signals to control the state of each full bridge module on the chip. We need one signal for the IN A pin and one signal for the IN B pin. To supply these signals, we used the Analog Discovery 2 with the Waveforms software. Following the guidelines of the datasheet, we created digital patterns for our motor. The timing sheet also shows us that PS should be low voltage.
 
+<img width="527" alt="Toshiba TB6674PG chip " src="https://user-images.githubusercontent.com/71578472/171724207-eb278d10-6a2c-49b5-869b-5484bc4c0544.png">
+Figure: Sample timing chart from Toshiba TB6674PG chip with signal A and signal B 90 degrees out of phase
 
+## Results 
 
