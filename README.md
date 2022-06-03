@@ -86,7 +86,7 @@ Figure: Counterclockwise waveform patterns
 
 ## Conclusion
 
-In conclusion, the hands-on experience of generating our own circuit schematic, wiring it up, generating the logic signals, and seeing our motor work was very rewarding and I feel like I gained more practical knowledge. 
+In conclusion, the hands-on experience of generating our own circuit schematic, wiring it up, generating the logic signals, and seeing our motor work was very rewarding and I feel like I gained more practical knowledge. Understanding the datasheet allowed us to create waveform patterns to rotate the motor and to determine the correct values for the voltage supplies for the appropriate pins. It was very insightful to work from beginning to end to make the motor work. 
 
  
 
