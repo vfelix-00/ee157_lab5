@@ -72,7 +72,19 @@ Figure: Video of our motor turning clockwise with digital signals' frequencies o
 
 Figure: Video of our motor turning counterclockwise with digital signals' frequencies of 1 kHz.
 
+I converted the videos into Gifs because the embedded video was not loading.
 
+### A screenshot of the waveforms you used to turn the motor in each direction
+
+
+<img width="969" alt="Waveform patterns to turn motor clockwise" src="https://user-images.githubusercontent.com/71578472/171792089-127a9b73-3e26-48b5-957c-67c6c37ef56d.png">
+Figure: Clockwise waveform patterns
+
+
+<img width="965" alt="Waveform patterns to turn motor counterclockwise" src="https://user-images.githubusercontent.com/71578472/171792219-79650adc-4750-47d1-845f-ba98e7987c78.png">
+Figure: Counterclockwise waveform patterns
+
+## Conclusion
 
  
 
