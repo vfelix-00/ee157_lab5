@@ -45,7 +45,7 @@ The Toshiba TB6674PG Stepping Motor Driver IC we used did not have a bunch of lo
 
 We reviewed the datasheet for the TB6674PG, once we were familiar with all the pins and how they should be connected / configured, we drew out the schematic we planned to implement.  
 
-![EE+157_Lab_5-3](https://user-images.githubusercontent.com/71578472/171698450-1601d336-2fe5-47d6-b77a-fb29772d18bc.jpeg)
+![EE+157_Lab_5-4](https://user-images.githubusercontent.com/71578472/171797809-1a6309de-7874-478f-9924-21e12ebb83a3.jpeg)
 Figure: Circuit schematic of Toshiba TB6674PG chip, power supply, passive components, and stepper motor
 
 Before plugging it into the power supply, we confirmed the electrical connectivity with a handheld DMM to save debugging time as well as burnt ICs.
