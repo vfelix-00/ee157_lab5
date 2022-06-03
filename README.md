@@ -86,5 +86,7 @@ Figure: Counterclockwise waveform patterns
 
 ## Conclusion
 
+In conclusion, the hands-on experience of generating our own circuit schematic, wiring it up, generating the logic signals, and seeing our motor work was very rewarding and I feel like I gained more practical knowledge. 
+
  
 
