@@ -62,13 +62,13 @@ Figure: Sample timing chart from Toshiba TB6674PG chip with signal A and signal 
 ### A short video of our motor turning one direction, AND a short video of our motor turning the other direction.
 
 
-!https://user-images.githubusercontent.com/71578472/171788600-3015d6f9-4a24-47ae-8288-9eb3af34e682.mov
+https://user-images.githubusercontent.com/71578472/171788600-3015d6f9-4a24-47ae-8288-9eb3af34e682.mov
 
 
 Figure: Video of our motor turning clockwise with digital signals' frequencies of 1 kHz.
 
 
-!https://user-images.githubusercontent.com/71578472/171788631-b9a8a562-611a-4b23-bd7a-e3fc2d1ea31b.mov
+https://user-images.githubusercontent.com/71578472/171788631-b9a8a562-611a-4b23-bd7a-e3fc2d1ea31b.mov
 
 
 Figure: Video of our motor turning counterclockwise with digital signals' frequencies of 1 kHz.
